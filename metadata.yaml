@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42887'
     url: http://www.gutenberg.org/2009/agents/42887
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44723#Diderot-et-le-Cur--de-MontchauvetUne-mystification-litt-raire-chez-le-baron-d-Holbach-1754
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2014-01-21'
 gutenberg_type: Text
