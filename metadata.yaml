@@ -1,0 +1,31 @@
+_repo: Diderot-et-le-Cur--de-MontchauvetUne-mystification-litt-raire-chez-le-baron-d-Holbach-1754_44723
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44723-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gasté, Armand
+    alias: Gaste, Armand
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '42887'
+    url: http://www.gutenberg.org/2009/agents/42887
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2014-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44723'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Le Petit, Jean Baptiste, 1720?-1788'
+- !lcsh 'Diderot, Denis, 1713-1784'
+- !lcc 'PQ'
+title: 'Diderot et le Curé de Montchauvet
+
+  Une mystification littéraire chez le baron d''Holbach, 1754'
+url: http://www.gutenberg.org/ebooks/44723
